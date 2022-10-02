@@ -7,7 +7,7 @@
 
 > Computers are incredibly fast, accurate, and stupid. Human beings are incredibly slow, inaccurate, and brilliant. Together they are powerful beyond imagination. - Albert Einstein
 
-![An image of me, Yash Puneet](images/Yash.jpg =100x100)
+![An image of me, Yash Puneet](images/Yash.jpg)
 ###### Hi! I am Yash
 
 [My LinkedIn Profile](https://www.linkedin.com/in/yashpuneet)
