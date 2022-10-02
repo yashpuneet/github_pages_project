@@ -7,16 +7,16 @@
 
 > Computers are incredibly fast, accurate, and stupid. Human beings are incredibly slow, inaccurate, and brilliant. Together they are powerful beyond imagination. - Albert Einstein
 
-![An image of me, Yash Puneet](images/Yash.jpg)
-###### Hi! I am Yash!
-
-```
-Code Snippet
-```
+![An image of me, Yash Puneet](images/Yash.jpg =100x100)
+###### Hi! I am Yash
 
 [My LinkedIn Profile](https://www.linkedin.com/in/yashpuneet)
 
 [My Resume](docs/Resume.pdf)
+
+```
+Code Snippet
+```
 
 #### My Professional Goals as a Student:
 
@@ -39,11 +39,16 @@ Code Snippet
 - [X] Take a course about animal behaviour and psychology
 - [X] Watch the sunset and Gliderport
 - [X] Join a Club/Organisation and be an active member
-- [] Secure and complete an intership
-- [] Go Paragliding
-- [] Explore 3 Hiking trails in San Diego
-- [] 
+- [ ] Secure and complete an intership
+- [ ] Go Paragliding
+- [ ] Explore 3 Hiking trails in San Diego 
 
-TODO: Add Section Links
-TODO: Add Unordered List
+#### Things to add to this page:
+* Section Links
+* Text Styling
+* Resized Images
+* About Me Paragraph
+* Projects
+* Skills
+* Links to Github Respositories
 
